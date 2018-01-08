@@ -14,7 +14,7 @@ The repository is organized in topics. Each topics has a folder name that contai
 3. use the wiki if you want to create additional documentation
 4. update the readme each time you are adding a new topic to this project.
 
-## Data Security
+## Data Security [Not Ready Yet]
 
 In case you need to push some data or analysis and your not sure if you can publish it please encrypt your data using [git crypt](https://www.agwa.name/projects/git-crypt/).
 
@@ -26,4 +26,4 @@ brew install git-crypt
 
 1. Please read [this tutorial](https://www.agwa.name/projects/git-crypt/) to have an idea on how to use it.
 
-2. [how to generate a gpg key](./docs/gnupg.md) 
+2. [how to generate a gpg key](./docs/gnupg.md)
