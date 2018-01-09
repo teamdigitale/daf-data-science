@@ -1,0 +1,1619 @@
+{
+    "LISTA_AIUTI": {
+        "@xmlns": "http://www.rna.it/RNA_aiuto/schema", 
+        "AIUTO": [
+            {
+                "CAR": "301", 
+                "TITOLO_MISURA": "Contributi alle PMI  del settore commercio e artigianato  interessate da lavori di pubblica utilit\u00e0 localizzati nel Comune di Brescia   e destinati alla realizzazione della linea ferroviaria strategica  TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Legge Regionale \"Testo unico delle leggi regionali in materia di commercio e fiere\u201d e s.m.i. e, in particolare, gli artt. 136 e 137 indicano gli \u201cInterventi regionali per la qualificazione e lo sviluppo delle piccole e medie imprese commerciali\u201d e le \u201caree di intervento\u201d all\u2019interno delle quali si articolano le iniziative di promozione e sostegno all\u2019attivit\u00e0 commerciale", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://", 
+                "COD_UFF_GESTORE": "Marketing", 
+                "DENOMINAZIONE_UFF_GESTORE": "Servizio Promozione della citt\u00e0 ed eventi", 
+                "SOGGETTO_CONCEDENTE": "Comune di Brescia", 
+                "COR": "30485", 
+                "TITOLO_PROGETTO": "CONTRIBUTI ALLE IMPRESE DEL SETTORE COMMERCIO E ARTIGIANATO (PMI) INTERESSATE DA LAVORI DI PUBBLICA UTILITA\u2019 DESTINATI ALLA REALIZZAZIONE  DELLA LINEA FERROVIARI STRATEGICA TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019\u201d - direttrice TREVIGLIO-BRESCIA", 
+                "DESCRIZIONE_PROGETTO": "sostegno al tessuto commerciale e artigianale, operando interventi tesi al consolidamento delle stesse", 
+                "LINK_TRASPARENZA_NAZIONALE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DATA_CONCESSIONE": "2016-02-23+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "determinazione dirigenziale", 
+                "LINK_ATTO_CONCESSIONE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DENOMINAZIONE_BENEFICIARIO": "TGF DI GALIZZI FRANCO", 
+                "CODICE_FISCALE_BENEFICIARIO": "GLZFNC78D06B157Q", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "31529", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.4", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "1500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "301", 
+                "TITOLO_MISURA": "Contributi alle PMI  del settore commercio e artigianato  interessate da lavori di pubblica utilit\u00e0 localizzati nel Comune di Brescia   e destinati alla realizzazione della linea ferroviaria strategica  TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Legge Regionale \"Testo unico delle leggi regionali in materia di commercio e fiere\u201d e s.m.i. e, in particolare, gli artt. 136 e 137 indicano gli \u201cInterventi regionali per la qualificazione e lo sviluppo delle piccole e medie imprese commerciali\u201d e le \u201caree di intervento\u201d all\u2019interno delle quali si articolano le iniziative di promozione e sostegno all\u2019attivit\u00e0 commerciale", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://", 
+                "COD_UFF_GESTORE": "Marketing", 
+                "DENOMINAZIONE_UFF_GESTORE": "Servizio Promozione della citt\u00e0 ed eventi", 
+                "SOGGETTO_CONCEDENTE": "Comune di Brescia", 
+                "COR": "30526", 
+                "TITOLO_PROGETTO": "CONTRIBUTI ALLE IMPRESE DEL SETTORE COMMERCIO E ARTIGIANATO (PMI) INTERESSATE DA LAVORI DI PUBBLICA UTILITA\u2019 DESTINATI ALLA REALIZZAZIONE  DELLA LINEA FERROVIARI STRATEGICA TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019\u201d - direttrice TREVIGLIO-BRESCIA", 
+                "DESCRIZIONE_PROGETTO": "sostegno al tessuto commerciale e artigianale, operando interventi tesi al consolidamento delle stesse", 
+                "LINK_TRASPARENZA_NAZIONALE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DATA_CONCESSIONE": "2016-02-29+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "determinazione dirigenziale", 
+                "LINK_ATTO_CONCESSIONE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DENOMINAZIONE_BENEFICIARIO": "TRECCANI LIDIA", 
+                "CODICE_FISCALE_BENEFICIARIO": "TRCLDI53C63B157P", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "31571", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "1500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "301", 
+                "TITOLO_MISURA": "Contributi alle PMI  del settore commercio e artigianato  interessate da lavori di pubblica utilit\u00e0 localizzati nel Comune di Brescia   e destinati alla realizzazione della linea ferroviaria strategica  TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Legge Regionale \"Testo unico delle leggi regionali in materia di commercio e fiere\u201d e s.m.i. e, in particolare, gli artt. 136 e 137 indicano gli \u201cInterventi regionali per la qualificazione e lo sviluppo delle piccole e medie imprese commerciali\u201d e le \u201caree di intervento\u201d all\u2019interno delle quali si articolano le iniziative di promozione e sostegno all\u2019attivit\u00e0 commerciale", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://", 
+                "COD_UFF_GESTORE": "Marketing", 
+                "DENOMINAZIONE_UFF_GESTORE": "Servizio Promozione della citt\u00e0 ed eventi", 
+                "SOGGETTO_CONCEDENTE": "Comune di Brescia", 
+                "COR": "30552", 
+                "TITOLO_PROGETTO": "CONTRIBUTI ALLE IMPRESE DEL SETTORE COMMERCIO E ARTIGIANATO (PMI) INTERESSATE DA LAVORI DI PUBBLICA UTILITA\u2019 DESTINATI ALLA REALIZZAZIONE  DELLA LINEA FERROVIARI STRATEGICA TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019\u201d - direttrice TREVIGLIO-BRESCIA", 
+                "DESCRIZIONE_PROGETTO": "sostegno al tessuto commerciale e artigianale, operando interventi tesi al consolidamento delle stesse", 
+                "LINK_TRASPARENZA_NAZIONALE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DATA_CONCESSIONE": "2016-02-23+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "determinazione dirigenziale", 
+                "LINK_ATTO_CONCESSIONE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DENOMINAZIONE_BENEFICIARIO": "BAR BRESCIA 1 DI TRIPOLI VITTORIANNA", 
+                "CODICE_FISCALE_BENEFICIARIO": "TRPVTR75M47B157O", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "31646", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "3000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "301", 
+                "TITOLO_MISURA": "Contributi alle PMI  del settore commercio e artigianato  interessate da lavori di pubblica utilit\u00e0 localizzati nel Comune di Brescia   e destinati alla realizzazione della linea ferroviaria strategica  TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Legge Regionale \"Testo unico delle leggi regionali in materia di commercio e fiere\u201d e s.m.i. e, in particolare, gli artt. 136 e 137 indicano gli \u201cInterventi regionali per la qualificazione e lo sviluppo delle piccole e medie imprese commerciali\u201d e le \u201caree di intervento\u201d all\u2019interno delle quali si articolano le iniziative di promozione e sostegno all\u2019attivit\u00e0 commerciale", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://", 
+                "COD_UFF_GESTORE": "Marketing", 
+                "DENOMINAZIONE_UFF_GESTORE": "Servizio Promozione della citt\u00e0 ed eventi", 
+                "SOGGETTO_CONCEDENTE": "Comune di Brescia", 
+                "COR": "30554", 
+                "TITOLO_PROGETTO": "CONTRIBUTI ALLE IMPRESE DEL SETTORE COMMERCIO E ARTIGIANATO (PMI) INTERESSATE DA LAVORI DI PUBBLICA UTILITA\u2019 DESTINATI ALLA REALIZZAZIONE  DELLA LINEA FERROVIARI STRATEGICA TAV \u201cALTA VELOCITA\u2019/ALTA CAPACITA\u2019\u201d - direttrice TREVIGLIO-BRESCIA", 
+                "DESCRIZIONE_PROGETTO": "sostegno al tessuto commerciale e artigianale, operando interventi tesi al consolidamento delle stesse", 
+                "LINK_TRASPARENZA_NAZIONALE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DATA_CONCESSIONE": "2016-02-26+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "determinazione dirigenziale", 
+                "LINK_ATTO_CONCESSIONE": "http://albopretorio.comune.brescia.it/web/trasparenza/sovvenzioni-contributi-sussidi-e-vantaggi-economici;jsessionid=BA5D2BF664AB97F8E50BAA2ACC5887B1", 
+                "DENOMINAZIONE_BENEFICIARIO": "SICILIA IN BOCCA DI PONZIANI NICOLA", 
+                "CODICE_FISCALE_BENEFICIARIO": "PNZNCL57A06A512T", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "31648", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "3000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "441", 
+                "TITOLO_MISURA": "Bando per la concessione di contributi ad aspiranti franchisee per l\u2019apertura di attivit\u00e0 in franchising del commercio, della ristorazione e dei servizi - Fase 3 del progetto pilota \u00abFare impresa in franchising in Lombardia\u00bb (ex d.g.r. 21 maggio 2015 n. X", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "FARE IMPRESA IN FRANCHISING IN LOMBARDIA \u2013 PROGETTO PILOTA PER IL SOSTEGNO E LO SVILUPPO DELL\u2019IMPRENDITORIALIT\u00c0 E L\u2019OCCUPAZIONE, LA RIGENERAZIONE DELL\u2019OFFERTA COMMERCIALE NEI CENTRI URBANI ATTRAVERSO LO SVILUPPO DI ATTIVIT\u00c0 IN FRANCHISING", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213780010372&p=1213780010372&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "31971", 
+                "TITOLO_PROGETTO": "Fare impresa in franchising in Lombardia", 
+                "DESCRIZIONE_PROGETTO": "Il bando sostiene le micro e piccole imprese commerciali, della ristorazione e dei servizi che aprono attivit\u00e0 in franchising in quanto affiliati ad altri operatori in aree urbane a rischio di indebolimento dell\u00bfofferta commerciale.", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "E33D16001590007", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 7241 2016-07-22 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "TAKE-OFF DI FUSI ALESSANDRO", 
+                "CODICE_FISCALE_BENEFICIARIO": "FSULSN79H16E507U", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "33634", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100200", 
+                        "DES_OBIETTIVO": "Sviluppo regionale o locale", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "441", 
+                "TITOLO_MISURA": "Bando per la concessione di contributi ad aspiranti franchisee per l\u2019apertura di attivit\u00e0 in franchising del commercio, della ristorazione e dei servizi - Fase 3 del progetto pilota \u00abFare impresa in franchising in Lombardia\u00bb (ex d.g.r. 21 maggio 2015 n. X", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "FARE IMPRESA IN FRANCHISING IN LOMBARDIA \u2013 PROGETTO PILOTA PER IL SOSTEGNO E LO SVILUPPO DELL\u2019IMPRENDITORIALIT\u00c0 E L\u2019OCCUPAZIONE, LA RIGENERAZIONE DELL\u2019OFFERTA COMMERCIALE NEI CENTRI URBANI ATTRAVERSO LO SVILUPPO DI ATTIVIT\u00c0 IN FRANCHISING", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213780010372&p=1213780010372&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "31972", 
+                "TITOLO_PROGETTO": "Fare impresa in franchising in Lombardia", 
+                "DESCRIZIONE_PROGETTO": "Il bando sostiene le micro e piccole imprese commerciali, della ristorazione e dei servizi che aprono attivit\u00e0 in franchising in quanto affiliati ad altri operatori in aree urbane a rischio di indebolimento dell\u00bfofferta commerciale.", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "E53D16000990009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 7241 2016-07-22 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "CUPPONE ANGELO RAFFAELE", 
+                "CODICE_FISCALE_BENEFICIARIO": "CPPNLR67A14F842T", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "33635", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100200", 
+                        "DES_OBIETTIVO": "Sviluppo regionale o locale", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "441", 
+                "TITOLO_MISURA": "Bando per la concessione di contributi ad aspiranti franchisee per l\u2019apertura di attivit\u00e0 in franchising del commercio, della ristorazione e dei servizi - Fase 3 del progetto pilota \u00abFare impresa in franchising in Lombardia\u00bb (ex d.g.r. 21 maggio 2015 n. X", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "FARE IMPRESA IN FRANCHISING IN LOMBARDIA \u2013 PROGETTO PILOTA PER IL SOSTEGNO E LO SVILUPPO DELL\u2019IMPRENDITORIALIT\u00c0 E L\u2019OCCUPAZIONE, LA RIGENERAZIONE DELL\u2019OFFERTA COMMERCIALE NEI CENTRI URBANI ATTRAVERSO LO SVILUPPO DI ATTIVIT\u00c0 IN FRANCHISING", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213780010372&p=1213780010372&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "31973", 
+                "TITOLO_PROGETTO": "Fare impresa in franchising in Lombardia", 
+                "DESCRIZIONE_PROGETTO": "Il bando sostiene le micro e piccole imprese commerciali, della ristorazione e dei servizi che aprono attivit\u00e0 in franchising in quanto affiliati ad altri operatori in aree urbane a rischio di indebolimento dell\u00bfofferta commerciale.", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "E93D16001460009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 7241 2016-07-22 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "IRIS DI BRIGNOLI LISA", 
+                "CODICE_FISCALE_BENEFICIARIO": "BRGLSI79P70L319K", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "33636", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100200", 
+                        "DES_OBIETTIVO": "Sviluppo regionale o locale", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "441", 
+                "TITOLO_MISURA": "Bando per la concessione di contributi ad aspiranti franchisee per l\u2019apertura di attivit\u00e0 in franchising del commercio, della ristorazione e dei servizi - Fase 3 del progetto pilota \u00abFare impresa in franchising in Lombardia\u00bb (ex d.g.r. 21 maggio 2015 n. X", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "FARE IMPRESA IN FRANCHISING IN LOMBARDIA \u2013 PROGETTO PILOTA PER IL SOSTEGNO E LO SVILUPPO DELL\u2019IMPRENDITORIALIT\u00c0 E L\u2019OCCUPAZIONE, LA RIGENERAZIONE DELL\u2019OFFERTA COMMERCIALE NEI CENTRI URBANI ATTRAVERSO LO SVILUPPO DI ATTIVIT\u00c0 IN FRANCHISING", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213780010372&p=1213780010372&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "32681", 
+                "TITOLO_PROGETTO": "Fare impresa in franchising in Lombardia", 
+                "DESCRIZIONE_PROGETTO": "Il bando sostiene le micro e piccole imprese commerciali, della ristorazione e dei servizi che aprono attivit\u00e0 in franchising in quanto affiliati ad altri operatori in aree urbane a rischio di indebolimento dell\u00bfofferta commerciale.", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "E93D16001450009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 7241 2016-07-22 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "CONCURRENT ENGINEERING S.R.L. IN FORMA ABBREVIATA C.E. S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03554040968", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "34385", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100200", 
+                        "DES_OBIETTIVO": "Sviluppo regionale o locale", 
+                        "SETTORE_ATTIVITA": "M.71.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "441", 
+                "TITOLO_MISURA": "Bando per la concessione di contributi ad aspiranti franchisee per l\u2019apertura di attivit\u00e0 in franchising del commercio, della ristorazione e dei servizi - Fase 3 del progetto pilota \u00abFare impresa in franchising in Lombardia\u00bb (ex d.g.r. 21 maggio 2015 n. X", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "FARE IMPRESA IN FRANCHISING IN LOMBARDIA \u2013 PROGETTO PILOTA PER IL SOSTEGNO E LO SVILUPPO DELL\u2019IMPRENDITORIALIT\u00c0 E L\u2019OCCUPAZIONE, LA RIGENERAZIONE DELL\u2019OFFERTA COMMERCIALE NEI CENTRI URBANI ATTRAVERSO LO SVILUPPO DI ATTIVIT\u00c0 IN FRANCHISING", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213780010372&p=1213780010372&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "32682", 
+                "TITOLO_PROGETTO": "Fare impresa in franchising in Lombardia", 
+                "DESCRIZIONE_PROGETTO": "Il bando sostiene le micro e piccole imprese commerciali, della ristorazione e dei servizi che aprono attivit\u00e0 in franchising in quanto affiliati ad altri operatori in aree urbane a rischio di indebolimento dell\u00bfofferta commerciale.", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "E43D16001120003", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 7241 2016-07-22 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "THE OFFICE DI DE FRANCO ANTONIO", 
+                "CODICE_FISCALE_BENEFICIARIO": "DFRNTN64C03G320D", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "34386", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100200", 
+                        "DES_OBIETTIVO": "Sviluppo regionale o locale", 
+                        "SETTORE_ATTIVITA": "S.95.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "1161", 
+                "TITOLO_MISURA": "Contributi per reti d'impresa e consorzi", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Riordinamento delle camere di commercio, industria, artigianato e agricoltura.", 
+                "LINK_TESTO_INTEGRALE_MISURA": "https://www.cn.camcom.gov.it/sites/default/files/uploads/documents/Amministrazione_aperta/bando%201604%20mod.pdf", 
+                "COD_UFF_GESTORE": "1", 
+                "DENOMINAZIONE_UFF_GESTORE": "PROMOZIONE", 
+                "SOGGETTO_CONCEDENTE": "Camera di Commercio Industria Artigianato e Agricoltura di Cuneo", 
+                "COR": "39796", 
+                "TITOLO_PROGETTO": "BANDO PER RETI D'IMPRESA E CONSORZI", 
+                "DESCRIZIONE_PROGETTO": "COSTITUZIONE E PROMOZIONE RETI D'IMPRESA E CONSORZI", 
+                "LINK_TRASPARENZA_NAZIONALE": "https://www.cn.camcom.gov.it/sites/default/files/uploads/documents/Amministrazione_aperta/bando%201604%20mod.pdf", 
+                "DATA_CONCESSIONE": "2016-02-21+01:00", 
+                "CUP": "E94E17000150003", 
+                "ATTO_CONCESSIONE": "determina n. 143-pm", 
+                "LINK_ATTO_CONCESSIONE": "https://www.cn.camcom.gov.it/sites/default/files/uploads/documents/Amministrazione_aperta/Determinazione%20dirigenziale%20n.%20143%20PM%20del%2021.02.2017.pdf", 
+                "DENOMINAZIONE_BENEFICIARIO": "CAR - CENTRO ARTIGIANO DI REVISIONE SC A RL", 
+                "CODICE_FISCALE_BENEFICIARIO": "02585070044", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Piemonte", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "42555", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100400", 
+                        "DES_OBIETTIVO": "Ricerca, sviluppo e innovazione", 
+                        "SETTORE_ATTIVITA": "M.71.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2887.38"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "461", 
+                "TITOLO_MISURA": "BANDI FIERE", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Riordinamento delle camere di commercio, industria, artigianato e agricoltura.", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://", 
+                "COD_UFF_GESTORE": "01", 
+                "DENOMINAZIONE_UFF_GESTORE": "UOS Incentivi e sovvenzioni alle imprese", 
+                "SOGGETTO_CONCEDENTE": "Camera di Commercio, Industria, Artigianato e Agricoltura di Perugia", 
+                "COR": "40821", 
+                "TITOLO_PROGETTO": "BANDO FIERE 2016", 
+                "DESCRIZIONE_PROGETTO": "PARTECIPAZIONE A FIERE INTERNAZIONALI", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "I53D17000060003", 
+                "ATTO_CONCESSIONE": "DD 74-2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "TERRE DI GRIFONETTO S.A.S. DI PISTELLI ANGELICA & C. SOCIETA' AGRICOLA", 
+                "CODICE_FISCALE_BENEFICIARIO": "03219540543", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Umbria", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "44330", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "102000", 
+                        "DES_OBIETTIVO": "Promozione dell'esportazione e dell'internazionalizzazione", 
+                        "SETTORE_ATTIVITA": "G.46.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "844.87"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "866", 
+                "TITOLO_MISURA": "Bando per l'attrazione e lo sviluppo di nuove attivit\u00e0 produttive nel Comune di Ferrara", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Riordinamento delle camere di commercio, industria, artigianato e agricoltura.", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://http://www.fe.camcom.it/promozione/finanziamenti/bando-per-lattrazione-e-lo-sviluppo-di-nuove-attivita-produttive-nel-comune-di-ferrara-1/?searchterm=comune%20ferrara", 
+                "COD_UFF_GESTORE": "MKTTER", 
+                "DENOMINAZIONE_UFF_GESTORE": "Ufficio Marketing del Territorio, Innovazione e Qualit\u00e0", 
+                "SOGGETTO_CONCEDENTE": "Camera di Commercio di Ferrara", 
+                "COR": "41413", 
+                "TITOLO_PROGETTO": "Sostegno agli investimenti nel Comune di Ferrara", 
+                "DESCRIZIONE_PROGETTO": "Avvio di nuova sede produttiva", 
+                "DATA_CONCESSIONE": "2016-02-01+01:00", 
+                "CUP": "B73D15001180003", 
+                "ATTO_CONCESSIONE": "determinazione del segretario generale n. 33", 
+                "DENOMINAZIONE_BENEFICIARIO": "DOC SERVIZI SOC. COOP.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02198100238", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Emilia-Romagna", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "45187", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100200", 
+                        "DES_OBIETTIVO": "Sviluppo regionale o locale", 
+                        "SETTORE_ATTIVITA": "R.90.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "26607.31"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "691", 
+                "TITOLO_MISURA": "FONDO DI ROTAZIONE PER L'INTERNAZIONALIZZAZIONE DELLE IMPRESE - FRI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "ACCORDO DI PROGRAMMA PER LO SVILUPPO ECONOMICO E LA COMPETITIVIT\u00c0 DEL SISTEMA LOMBARDO 2010-2015. RELAZIONE ATTIVIT\u00c0 2012 E PROGRAMMA DI AZIONE 2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213486913499&p=1213486913499&packedargs=locale%3D1194453881584%26menu-to-render%3D1213301212376&pagename=DG_COMMWrapper&tipologi", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45554", 
+                "TITOLO_PROGETTO": "Creazione di una NewCo negli Emirati Arabi Uniti", 
+                "DESCRIZIONE_PROGETTO": "Creazione di una NewCo negli Emirati Arabi Uniti", 
+                "DATA_CONCESSIONE": "2016-02-12+01:00", 
+                "CUP": "E35F16000000009", 
+                "DENOMINAZIONE_BENEFICIARIO": "ENMA CONSULENZE S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "06283750963", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "89938", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "J.62.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "8708.13"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "691", 
+                "TITOLO_MISURA": "FONDO DI ROTAZIONE PER L'INTERNAZIONALIZZAZIONE DELLE IMPRESE - FRI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "ACCORDO DI PROGRAMMA PER LO SVILUPPO ECONOMICO E LA COMPETITIVIT\u00c0 DEL SISTEMA LOMBARDO 2010-2015. RELAZIONE ATTIVIT\u00c0 2012 E PROGRAMMA DI AZIONE 2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213486913499&p=1213486913499&packedargs=locale%3D1194453881584%26menu-to-render%3D1213301212376&pagename=DG_COMMWrapper&tipologi", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45557", 
+                "TITOLO_PROGETTO": "Realizzazione di una nuova sede produttiva negli U.S.A.", 
+                "DESCRIZIONE_PROGETTO": "Realizzazione di una nuova sede produttiva negli U.S.A.", 
+                "DATA_CONCESSIONE": "2016-02-15+01:00", 
+                "CUP": "E45F16000000009", 
+                "DENOMINAZIONE_BENEFICIARIO": "SPINDOX S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "09668930010", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "97390", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "J.62.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "42575.83"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45668", 
+                "TITOLO_PROGETTO": "STUDIO DI FATTIBILITA", 
+                "DESCRIZIONE_PROGETTO": "STUDIO DI FATTIBILITA", 
+                "DATA_CONCESSIONE": "2016-02-29+01:00", 
+                "CUP": "E87H15001230009", 
+                "DENOMINAZIONE_BENEFICIARIO": "TORREFAZIONE POLI S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01632270169", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51573", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.10.8", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "641", 
+                "TITOLO_MISURA": "FONDO DI ROTAZIONE PER L'IMPRENDITORIALITA' - LINEA DI INTERVENTO A FAVORE DELLE IMPRESE COOPERATIVE -", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "POTENZIAMENTO  DELLE   MISURE   DEL  FONDO   DI  ROTAZIONE   PER L'IMPRENDITORIALITA' A SOSTEGNO  DELLE AZIENDE E A'ITIVAZIONE DI  UNA  LINEA  D'INTERVENTO  A  \nFAVORE  DELLE  IMPRESE COOPERATIVE", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213351947926&p=1213351947926&packedargs=menu-to-render%3D1213798437871&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO135", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO COMPETITIVITA', SVILUPPO E ACCESSO AL CREDITO DELLE IMPRESE", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45978", 
+                "TITOLO_PROGETTO": "FRIM Cooperazione", 
+                "DESCRIZIONE_PROGETTO": "FRIM Cooperazione", 
+                "DATA_CONCESSIONE": "2016-02-22+01:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "COOPERATIVA SOCIALE AERIS A R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02399480967", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51915", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "Q.88.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "9", 
+                                "DES_STRUMENTO": "Prestito/Anticipo rimborsabile", 
+                                "ELEMENTO_DI_AIUTO": "3328.29"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "882", 
+                "TITOLO_MISURA": "POR FESR 2014-2020: Linea R&S per MPMI (FRIM FESR 2020)", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "COD_CE_MISURA": "SA.40425", 
+                "BASE_GIURIDICA_NAZIONALE": "STRATEGIA INNOVALOMBARDIA PER LA RICERCA E L'INNOVAZIONE DELLE IMPRESE: ISTITUZIONE DEL FONDO FRIM FESR 2020", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=HomeSPRL/WrapperBandiLayout&cid=1213706684087&p=1213706684087&packedargs=locale%3D1194453881584%26menu-to-render%3D1213301212544&pagename=HMSPRLWrapper&tipologia=Bandi%20Europ", 
+                "COD_UFF_GESTORE": "RLR130", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGRAMMAZIONE, RICERCA, INNOVAZIONE E UNIVERSITA'", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Universit\u00e0 Ricerca e Open Innovation", 
+                "COR": "46276", 
+                "TITOLO_PROGETTO": "Studio e sviluppo di una nuova macchina per il trattamento di tessuti e tessuti non tessuti in stato allargato ad elevate capacita- produttive e ridotti consumi energetici", 
+                "DESCRIZIONE_PROGETTO": "Studio e sviluppo di una nuova macchina per il trattamento di tessuti e tessuti non tessuti in stato allargato ad elevate capacita- produttive e ridotti consumi energetici", 
+                "DATA_CONCESSIONE": "2016-02-01+01:00", 
+                "CUP": "E47B14000440009", 
+                "DENOMINAZIONE_BENEFICIARIO": "M.C.S. OFFICINA MECCANICA S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00217260165", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "52260", 
+                        "COD_PROCEDIMENTO": "3", 
+                        "DES_PROCEDIMENTO": "Esenzione", 
+                        "COD_REGOLAMENTO": "CE651/2014", 
+                        "DES_REGOLAMENTO": "Reg. CE 651/2014 esenzione generale per categoria (GBER)", 
+                        "COD_OBIETTIVO": "501606", 
+                        "DES_OBIETTIVO": "Aiuti a favore di ricerca, sviluppo e innovazione | Sviluppo sperimentale [art. 25, par. 2, lettera c)]", 
+                        "SETTORE_ATTIVITA": "J.62.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "7", 
+                                "DES_STRUMENTO": "Prestito/Anticipo rimborsabile", 
+                                "ELEMENTO_DI_AIUTO": "146368.13"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "882", 
+                "TITOLO_MISURA": "POR FESR 2014-2020: Linea R&S per MPMI (FRIM FESR 2020)", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "COD_CE_MISURA": "SA.40425", 
+                "BASE_GIURIDICA_NAZIONALE": "STRATEGIA INNOVALOMBARDIA PER LA RICERCA E L'INNOVAZIONE DELLE IMPRESE: ISTITUZIONE DEL FONDO FRIM FESR 2020", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=HomeSPRL/WrapperBandiLayout&cid=1213706684087&p=1213706684087&packedargs=locale%3D1194453881584%26menu-to-render%3D1213301212544&pagename=HMSPRLWrapper&tipologia=Bandi%20Europ", 
+                "COD_UFF_GESTORE": "RLR130", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGRAMMAZIONE, RICERCA, INNOVAZIONE E UNIVERSITA'", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Universit\u00e0 Ricerca e Open Innovation", 
+                "COR": "46277", 
+                "TITOLO_PROGETTO": "Studio e sviluppo di una nuova famiglia di sensori ottici per l-ottimizzazione dei processi industriali.", 
+                "DESCRIZIONE_PROGETTO": "Studio e sviluppo di una nuova famiglia di sensori ottici per l-ottimizzazione dei processi industriali.", 
+                "DATA_CONCESSIONE": "2016-02-01+01:00", 
+                "CUP": "E47B14000440009", 
+                "DENOMINAZIONE_BENEFICIARIO": "LASER POINT S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "07701630159", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "52261", 
+                        "COD_PROCEDIMENTO": "3", 
+                        "DES_PROCEDIMENTO": "Esenzione", 
+                        "COD_REGOLAMENTO": "CE651/2014", 
+                        "DES_REGOLAMENTO": "Reg. CE 651/2014 esenzione generale per categoria (GBER)", 
+                        "COD_OBIETTIVO": "501606", 
+                        "DES_OBIETTIVO": "Aiuti a favore di ricerca, sviluppo e innovazione | Sviluppo sperimentale [art. 25, par. 2, lettera c)]", 
+                        "SETTORE_ATTIVITA": "J.62.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "7", 
+                                "DES_STRUMENTO": "Prestito/Anticipo rimborsabile", 
+                                "ELEMENTO_DI_AIUTO": "38936.45"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "2058", 
+                "TITOLO_MISURA": "INTERVENTI REGIONALI PER LO SVILUPPO DELL'IMPRENDITORIA GIOVANILE VENETA -Art. 3 - Tipologia degli interventI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "INTERVENTI REGIONALI PER AGEVOLARE L'ACCESSO AL CREDITO NEL SETTORE DEL COMMERCIO", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.venetosviluppo.it/portal/portal/vs/Attivita/Agevolata/ProdottiWindow?action=2&categoria=Finanziamenti&prodotto=%2FFinanziamenti%2FLR_1999_57", 
+                "COD_UFF_GESTORE": "VS", 
+                "DENOMINAZIONE_UFF_GESTORE": "VENETO SVILUPPO SPA (00854750270)", 
+                "SOGGETTO_CONCEDENTE": "Veneto Sviluppo Spa", 
+                "COR": "87759", 
+                "TITOLO_PROGETTO": "Agevolazioni in forma mista per investimenti", 
+                "DESCRIZIONE_PROGETTO": "Il progetto  \u00e8 finalizzato all\u2019ammodernamento dei locali dove viene svolta l\u2019attivit\u00e0.", 
+                "LINK_TRASPARENZA_NAZIONALE": "http://www.regione.veneto.it/web/guest/sovvenzioni-contributi-sussidi-vantaggi-economici", 
+                "DATA_CONCESSIONE": "2016-02-26+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "lettera esito prot. 7298/16  \u2013 01/03/2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "B.A.N.G. S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "04489350282", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Veneto", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "97601", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "15000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "2322", 
+                "TITOLO_MISURA": "Approvazione del programma annuale di attuazione per il 2015 del PRERP 2014-2016 approvato con DCR 30 luglio 2014, n. 456 - Primo provevdimento", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "COD_CE_MISURA": "_", 
+                "BASE_GIURIDICA_NAZIONALE": "Criteri per la formulazione di un programma di recupero e razionalizzazione degli immobili e degli alloggi di edilizia residenziale pubblica ai sensi dell'art.4 del DL 28 marzo 2014 n. 47 convertito con modificazione dalla legge 23 maggio 2014 n. 80", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.bollettino.regione.lombardia.it", 
+                "COD_UFF_GESTORE": "RLU13002", 
+                "DENOMINAZIONE_UFF_GESTORE": "Struttura Sviluppo del sistema dei servizi abitativi pubblici", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Casa, Housing Sociale, Expo 2015 e Internazionalizzazione delle imprese", 
+                "COR": "130909", 
+                "TITOLO_PROGETTO": "Legge 80/2014 - Linea B", 
+                "DESCRIZIONE_PROGETTO": "Legge 80/2014 - Linea B", 
+                "DATA_CONCESSIONE": "2016-02-18+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "dds 1118 del 18/2/2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "ALER BS - CR - MN", 
+                "CODICE_FISCALE_BENEFICIARIO": "00304200173", 
+                "DES_TIPO_BENEFICIARIO": "-", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "144818", 
+                        "COD_PROCEDIMENTO": "3", 
+                        "DES_PROCEDIMENTO": "Esenzione", 
+                        "COD_REGOLAMENTO": "CE20122011", 
+                        "DES_REGOLAMENTO": "Decisione 2012/21/UE 20 dicembre 2011 esenzione servizi di interesse economico generale (SIEG )", 
+                        "COD_OBIETTIVO": "450200", 
+                        "DES_OBIETTIVO": "Servizi d'interesse economico generale (SIEG)", 
+                        "SETTORE_ATTIVITA": "F.41.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "428887.64"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "154721", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "PARAFARMACIA - ORTOPEDIA NUOVA SANIMED S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03596850135", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164201", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2509.63"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "161308", 
+                "TITOLO_PROGETTO": "BANDO LOMBARDIA CONCRETA", 
+                "DESCRIZIONE_PROGETTO": "BANDO LOMBARDIA CONCRETA", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "1015", 
+                "DENOMINAZIONE_BENEFICIARIO": "RISTORANTE L'INCONTRO DI SANTARELLI GIUSEPPE", 
+                "CODICE_FISCALE_BENEFICIARIO": "SNTGPP79T01B619L", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "143667", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "3552.57"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "161508", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "VALTELLINA BIKE S.N.C. DI QUADRIO ALBERTO & C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00884070145", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164016", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.6", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "30035.06"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "161619", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "SB GROUP SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "03348210133", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164225", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "32765.52"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "161641", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "HOSPITALITYVB S.R.L. IN LIQUIDAZIONE", 
+                "CODICE_FISCALE_BENEFICIARIO": "08583700961", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164257", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9672.67"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "161729", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "ALBERGO FIORELLA", 
+                "CODICE_FISCALE_BENEFICIARIO": "GRRFLL59P62I633Z", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "178381", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.55.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2821.20"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166262", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "CENTRO CALZATURE DI PASINETTI MATTEO E VALENTINA S.A.S.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03781430164", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164276", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.8", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "1550.75"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166267", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "ERREBIEMME S.N.C. DI SOZIO ROSANNA & C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00736390147", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164316", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9829.65"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166274", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "GARDEN TECHNOLOGY BARRI S.N.C. DI BARRI SIMONE E C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00965200140", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164328", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "14402.29"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166277", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "GLOBAL GEST SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "02237740986", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164349", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6431.57"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166281", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "YUGEN SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "03725220986", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164356", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9672.67"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166285", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "OSTERIA PETRONILLA S.A.S. DI BIANCHI CESARINA & C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03608360131", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164366", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "8060.56"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "166297", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "M.C.M. AUTO S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "05827990960", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "164377", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.45.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10338.33"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "2635", 
+                "TITOLO_MISURA": "Approvazione avviso pubblico per il sostegno ai Contratti di Solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Criteri generali per il sostegno ai contratti e agli accordi di solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/wps/wcm/connect/f2e791cc-332b-49b6-96eb-02deb94f83e9/estratto+BURL+SEO24_09-06-2014.pdf?MOD=AJPERES&CACHEID=f2e791cc-332b-49b6-96eb-02deb94f83e9", 
+                "COD_UFF_GESTORE": "UIML", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO IMPRESE E MERCATO DEL LAVORO", 
+                "SOGGETTO_CONCEDENTE": "Agenzia Regionale per l'Istruzione, la Formazione e il Lavoro - Regione Lombardia", 
+                "COR": "169302", 
+                "TITOLO_PROGETTO": "Sostegno ai Contratti di Solidariet\u00e0 in attuazione della L.R. 21/2013 di cui al Decreto della U.O. Mercato del Lavoro del 9 giugno 2014 n. 4766", 
+                "DESCRIZIONE_PROGETTO": "Incentivo all\u2019azienda per Contratti di Solidariet\u00e0", 
+                "DATA_CONCESSIONE": "2016-02-04+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "Decreto (Arifl) n. 16", 
+                "LINK_ATTO_CONCESSIONE": "https://arifl.app.box.com/s/fgjt2m25owyewedbakha15877nevi1ux", 
+                "DENOMINAZIONE_BENEFICIARIO": "CEA COSTRUZIONI ELETTROMECCANICHE ANNETTONI S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00444640130", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "186265", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "101000", 
+                        "DES_OBIETTIVO": "Aiuti a favore dei lavoratori svantaggiati e/o dei lavoratori con disabilit\u00e0", 
+                        "SETTORE_ATTIVITA": "C.27.9", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "20", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18692.89"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "2635", 
+                "TITOLO_MISURA": "Approvazione avviso pubblico per il sostegno ai Contratti di Solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Criteri generali per il sostegno ai contratti e agli accordi di solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/wps/wcm/connect/f2e791cc-332b-49b6-96eb-02deb94f83e9/estratto+BURL+SEO24_09-06-2014.pdf?MOD=AJPERES&CACHEID=f2e791cc-332b-49b6-96eb-02deb94f83e9", 
+                "COD_UFF_GESTORE": "UIML", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO IMPRESE E MERCATO DEL LAVORO", 
+                "SOGGETTO_CONCEDENTE": "Agenzia Regionale per l'Istruzione, la Formazione e il Lavoro - Regione Lombardia", 
+                "COR": "169343", 
+                "TITOLO_PROGETTO": "Sostegno ai Contratti di Solidariet\u00e0 in attuazione della L.R. 21/2013 di cui al Decreto della U.O. Mercato del Lavoro del 9 giugno 2014 n. 4766", 
+                "DESCRIZIONE_PROGETTO": "Incentivo all\u2019azienda per Contratti di Solidariet\u00e0", 
+                "DATA_CONCESSIONE": "2016-02-10+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "Decreto (Arifl) n. 23", 
+                "LINK_ATTO_CONCESSIONE": "https://arifl.app.box.com/s/7ltsad4zdxg6gy4pxd16ogkvjs4o12ct", 
+                "DENOMINAZIONE_BENEFICIARIO": "LINKRA S.R.L. IN LIQUIDAZIONE", 
+                "CODICE_FISCALE_BENEFICIARIO": "02441450968", 
+                "DES_TIPO_BENEFICIARIO": "Grande impresa", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "186317", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "101000", 
+                        "DES_OBIETTIVO": "Aiuti a favore dei lavoratori svantaggiati e/o dei lavoratori con disabilit\u00e0", 
+                        "SETTORE_ATTIVITA": "C.26.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "20", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "19918.71"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "2635", 
+                "TITOLO_MISURA": "Approvazione avviso pubblico per il sostegno ai Contratti di Solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Criteri generali per il sostegno ai contratti e agli accordi di solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/wps/wcm/connect/f2e791cc-332b-49b6-96eb-02deb94f83e9/estratto+BURL+SEO24_09-06-2014.pdf?MOD=AJPERES&CACHEID=f2e791cc-332b-49b6-96eb-02deb94f83e9", 
+                "COD_UFF_GESTORE": "UIML", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO IMPRESE E MERCATO DEL LAVORO", 
+                "SOGGETTO_CONCEDENTE": "Agenzia Regionale per l'Istruzione, la Formazione e il Lavoro - Regione Lombardia", 
+                "COR": "169405", 
+                "TITOLO_PROGETTO": "Sostegno ai Contratti di Solidariet\u00e0 in attuazione della L.R. 21/2013 di cui al Decreto della U.O. Mercato del Lavoro del 9 giugno 2014 n. 4766", 
+                "DESCRIZIONE_PROGETTO": "Incentivo all\u2019azienda per Contratti di Solidariet\u00e0", 
+                "DATA_CONCESSIONE": "2016-02-11+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "decreto (Arifl) n. 28", 
+                "LINK_ATTO_CONCESSIONE": "https://arifl.app.box.com/s/8n6kuir9t29ftvfg7h3jgasfqokht14m", 
+                "DENOMINAZIONE_BENEFICIARIO": "COMPEL ELECTRONICS S.P.A. - IN LIQUIDAZIONE", 
+                "CODICE_FISCALE_BENEFICIARIO": "08112150159", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "186379", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "101000", 
+                        "DES_OBIETTIVO": "Aiuti a favore dei lavoratori svantaggiati e/o dei lavoratori con disabilit\u00e0", 
+                        "SETTORE_ATTIVITA": "C.14.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "20", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "11004.98"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "2635", 
+                "TITOLO_MISURA": "Approvazione avviso pubblico per il sostegno ai Contratti di Solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "Criteri generali per il sostegno ai contratti e agli accordi di solidariet\u00e0 in attuazione della l.r. 21/2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/wps/wcm/connect/f2e791cc-332b-49b6-96eb-02deb94f83e9/estratto+BURL+SEO24_09-06-2014.pdf?MOD=AJPERES&CACHEID=f2e791cc-332b-49b6-96eb-02deb94f83e9", 
+                "COD_UFF_GESTORE": "UIML", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO IMPRESE E MERCATO DEL LAVORO", 
+                "SOGGETTO_CONCEDENTE": "Agenzia Regionale per l'Istruzione, la Formazione e il Lavoro - Regione Lombardia", 
+                "COR": "169517", 
+                "TITOLO_PROGETTO": "Sostegno ai Contratti di Solidariet\u00e0 in attuazione della L.R. 21/2013 di cui al Decreto della U.O. Mercato del Lavoro del 9 giugno 2014 n. 4766", 
+                "DESCRIZIONE_PROGETTO": "Incentivo all\u2019azienda per Contratti di Solidariet\u00e0", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "Decreto (Arifl) n. 31", 
+                "LINK_ATTO_CONCESSIONE": "https://arifl.app.box.com/s/0j30ri0g0uqtzf949qpyhdeg8f59xzae", 
+                "DENOMINAZIONE_BENEFICIARIO": "R.I.B. S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01049460171", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "186493", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "101000", 
+                        "DES_OBIETTIVO": "Aiuti a favore dei lavoratori svantaggiati e/o dei lavoratori con disabilit\u00e0", 
+                        "SETTORE_ATTIVITA": "C.27.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "20", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "4931.73"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "383", 
+                "TITOLO_MISURA": "ASSEGNAZIONE DI CONTRIBUTI PER L'ACQUISTO CON RELATIVA INSTALLAZIONE DI DISPOSITIVI ANTIPARTICOLATO SU AUTOVEICOLI A MOTORE AD ACCENSIONE SPONTANEA (DIESEL) DESTINATI AL TRASPORTO MERCI E DI PERSONE, ESCLUSO IL TRASPORTO PUBBLICO LOCALE (TPL)", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "COD_CE_MISURA": "SA.39756", 
+                "BASE_GIURIDICA_NAZIONALE": "Assegnazione di contributi per l'acquisto con relativa installazione di dispositivi antiparticolato su autoveicoli a motore con accensione spontanea (diesel) destinati al trasporto di merci e di persone, escluso il trasporto pubblico locale (TPL)", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Page&childpagename=Regione%2FRegioneLayout&cid=1213810064213&p=1213810064213&pagename=RGNWrapper#1213802454750", 
+                "COD_UFF_GESTORE": "RLT132", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO ARIA, CLIMA E PAESAGGIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Ambiente, Energia e Sviluppo sostenibile", 
+                "COR": "172505", 
+                "TITOLO_PROGETTO": "Bando antiparticolato 2015", 
+                "DESCRIZIONE_PROGETTO": "Assegnazione di contributi per l'acquisto con relativa installazione di dispositivi antiparticolato su autoveicoli a motore ad accensione spontanea (diesel) destinati al trasporto di merci e di persone, escluso il trasporto pubblico locale.", 
+                "DATA_CONCESSIONE": "2016-02-18+01:00", 
+                "CUP": "n.d.", 
+                "ATTO_CONCESSIONE": "D.d.u.o. n. 1106/2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "AUTOTRASPORTI DELPANNO BRUNO SOCIETA' A RESPONSABILITA' LIMITATA, IN  SIGLA AUTOTRASPORTI DELPANNO BRUNO S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02733090985", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "186790", 
+                        "COD_PROCEDIMENTO": "3", 
+                        "DES_PROCEDIMENTO": "Esenzione", 
+                        "COD_REGOLAMENTO": "CE651/2014", 
+                        "DES_REGOLAMENTO": "Reg. CE 651/2014 esenzione generale per categoria (GBER)", 
+                        "COD_OBIETTIVO": "502202", 
+                        "DES_OBIETTIVO": "Aiuti per la tutela dell'ambiente | Aiuti agli investimenti che consentono alle imprese di andare oltre le norme dell'Unione in materia di tutela ambientale o di innalzare il livello di tutela ambientale in assenza di tali norme (art. 36)", 
+                        "SETTORE_ATTIVITA": "H.49.4", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "176770", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "USARDI MARIO", 
+                "CODICE_FISCALE_BENEFICIARIO": "SRDMRA71C11B157Z", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "190605", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "3790.81"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "176771", 
+                "TITOLO_PROGETTO": "bando Lombardia Concreta", 
+                "DESCRIZIONE_PROGETTO": "bando Lombardia Concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "CICHELLO GASPARRI CARLOTTA", 
+                "CODICE_FISCALE_BENEFICIARIO": "CCHCLT74L47L781B", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "190612", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.55.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "13031.01"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "581", 
+                "TITOLO_MISURA": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "LOMBARDIA CONCRETA - CONTRIBUTI AL CREDITO PER IL TURSIMO E L'ACCOGLIENZA E FONDO DI\nGARANZIA PER INVESTIMENTI NELLA FILIERA DELLA RICETTIVITA'", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213656468977&p=1213656468977&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "RLO133", 
+                "DENOMINAZIONE_UFF_GESTORE": "UO PROGETTI TRASVERSALI E ATTRATTIVITA' INTEGRATA DEL TERRITORIO", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "176824", 
+                "TITOLO_PROGETTO": "bando lombardia concreta", 
+                "DESCRIZIONE_PROGETTO": "bando lombardia concreta", 
+                "DATA_CONCESSIONE": "2016-02-17+01:00", 
+                "CUP": "0000", 
+                "ATTO_CONCESSIONE": "18 PROVV Decreto n 1015 del 17 febbraio 2016", 
+                "DENOMINAZIONE_BENEFICIARIO": "CRAP S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00765190145", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "194019", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "3", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "32765.52"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
