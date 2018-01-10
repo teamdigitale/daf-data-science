@@ -1,0 +1,159 @@
+{
+    "LISTA_AIUTI": {
+        "@xmlns": "http://www.rna.it/RNA_aiuto/schema", 
+        "AIUTO": [
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45121", 
+                "TITOLO_PROGETTO": "Studio di fattibilita per la realizzazzione di un insediamento produttivo in India", 
+                "DESCRIZIONE_PROGETTO": "Studio di fattibilita per la realizzazzione di un insediamento produttivo in India", 
+                "DATA_CONCESSIONE": "2010-03-30+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "LA LEONESSA S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02199340981", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51041", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45124", 
+                "TITOLO_PROGETTO": "Progetto Qatar", 
+                "DESCRIZIONE_PROGETTO": "Progetto Qatar", 
+                "DATA_CONCESSIONE": "2010-03-30+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "ECISGROUP - S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03046260133", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51044", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45586", 
+                "TITOLO_PROGETTO": "ANALISI E RICERCA DI MERCATO IN RUSSIA - FUMAGALLI COMPONENTI", 
+                "DESCRIZIONE_PROGETTO": "ANALISI E RICERCA DI MERCATO IN RUSSIA - FUMAGALLI COMPONENTI", 
+                "DATA_CONCESSIONE": "2010-03-30+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "FUMAGALLI COMPONENTI S.P.A. IN BREVE FUMAGALLI S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "04772440154", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51501", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45607", 
+                "TITOLO_PROGETTO": "Assistenza nell-individuazione di potenziali partner industriali in Russia per Fumagalli Componenti spa", 
+                "DESCRIZIONE_PROGETTO": "Assistenza nell-individuazione di potenziali partner industriali in Russia per Fumagalli Componenti spa", 
+                "DATA_CONCESSIONE": "2010-03-30+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "FUMAGALLI COMPONENTI S.P.A. IN BREVE FUMAGALLI S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "04772440154", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51512", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

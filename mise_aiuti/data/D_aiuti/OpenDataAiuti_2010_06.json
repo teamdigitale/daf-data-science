@@ -1,0 +1,501 @@
+{
+    "LISTA_AIUTI": {
+        "@xmlns": "http://www.rna.it/RNA_aiuto/schema", 
+        "AIUTO": [
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45126", 
+                "TITOLO_PROGETTO": "Supporto per lo studio di fattibilita relativo alla possibile acquisizione", 
+                "DESCRIZIONE_PROGETTO": "Supporto per lo studio di fattibilita relativo alla possibile acquisizione", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "CALVI S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00207610130", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51046", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.24.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45135", 
+                "TITOLO_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DESCRIZIONE_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "STATION WAGON S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01836130136", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51055", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.14.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45136", 
+                "TITOLO_PROGETTO": "Analisi e ricerche di mercato", 
+                "DESCRIZIONE_PROGETTO": "Analisi e ricerche di mercato", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "CALVI S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00207610130", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51056", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.24.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45137", 
+                "TITOLO_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DESCRIZIONE_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "\"TECNOSTEEL - S.R.L.\"", 
+                "CODICE_FISCALE_BENEFICIARIO": "02558580128", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51057", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.25.6", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45143", 
+                "TITOLO_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DESCRIZIONE_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "ENOLGAS BONOMI  S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00294510177", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51063", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45602", 
+                "TITOLO_PROGETTO": "BERMEC - DESTINAZIONE SVIZZERA", 
+                "DESCRIZIONE_PROGETTO": "BERMEC - DESTINAZIONE SVIZZERA", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "BERMEC - S.N.C. DI BERTOLINI E. & C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00535960140", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51507", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.25.6", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45608", 
+                "TITOLO_PROGETTO": "ricerca dei partner industriali in India per Tabu", 
+                "DESCRIZIONE_PROGETTO": "ricerca dei partner industriali in India per Tabu", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "Tabu spa", 
+                "CODICE_FISCALE_BENEFICIARIO": "TGLNDR72P04C933V", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51513", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.16.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45609", 
+                "TITOLO_PROGETTO": "ricerca di mercato in india volta alla valutazione di un insediamento produttivo", 
+                "DESCRIZIONE_PROGETTO": "ricerca di mercato in india volta alla valutazione di un insediamento produttivo", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "Tabu spa", 
+                "CODICE_FISCALE_BENEFICIARIO": "TGLNDR72P04C933V", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51514", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.16.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45616", 
+                "TITOLO_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DESCRIZIONE_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "FIBO S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01563770161", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51521", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.20.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45619", 
+                "TITOLO_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DESCRIZIONE_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "O.M.M. SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "03388050175", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51524", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.25.6", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45620", 
+                "TITOLO_PROGETTO": "Studio di fattibilita per insediamento produttivo in Cina", 
+                "DESCRIZIONE_PROGETTO": "Studio di fattibilita per insediamento produttivo in Cina", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "ORIS S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "12374190150", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51525", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.32.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45913", 
+                "TITOLO_PROGETTO": "Redazione di studio di fattibilita  per realizzazione nuovo stabilimento produttivo negli USA", 
+                "DESCRIZIONE_PROGETTO": "Redazione di studio di fattibilita  per realizzazione nuovo stabilimento produttivo negli USA", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "LE CASELLE S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01637290980", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51845", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45915", 
+                "TITOLO_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DESCRIZIONE_PROGETTO": "Richiesta Voucher di accompagnamento impresa", 
+                "DATA_CONCESSIONE": "2010-06-23+02:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "LE CASELLE S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01637290980", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51847", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "15000.00"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
