@@ -29,7 +29,7 @@ def init_logger():
     return logger
 
 
-def extract_data(df, logger):
+def extract_data(df, logger, start_point=0):
     d_types = ['entrate', 'spese']
     base_url = 'https://www.openbilanci.it/armonizzati/bilanci/%s-comune-%s/%s/dettaglio.json?year=2016&type=preventivo'
 
@@ -37,30 +37,36 @@ def extract_data(df, logger):
 
     i = 0
     logger.info('extracting %d from opencivitas dataset' % df.shape[0])
-    for r in df.values:
+    for r in df.iloc[start_point:, :].values:
         cod, city, year, province = r
-        if city is not 'Nan':
-            city = city.lower().replace(' ', '-')
-            province = province.lower()
-            city_url = base_url % (city, province, d_types[0])
+        try:
+            if type(city) == str and type(province) == str:
+                city = city.lower().replace(' ', '-')
+                province = province.lower()
+                city_url = base_url % (city, province, d_types[0])
 
-            filename = './data/bilanci/%s_%s.json' % (cod, city)
+                filename = './data/bilanci/%s_%s.json' % (cod, city)
 
-            try:
-                sleep(randint(1, 10))
-                i += 1
-                logger.info('processing url %s', city_url)
-                with urllib.request.urlopen(city_url) as url:
-                    data = json.loads(url.read().decode())
+                try:
+                    sleep(randint(1, 10))
+                    i += 1
+                    logger.info('processing url %s', city_url)
+                    with urllib.request.urlopen(city_url) as url:
+                        data = json.loads(url.read().decode())
 
-                    with open(filename, 'w') as o:
-                        json.dump(data, o)
+                        with open(filename, 'w') as o:
+                            json.dump(data, o)
 
-                        logger.info('saved data into %s' % filename)
+                            logger.info('saved data into %s' % filename)
 
-            except Exception as ex:
-                logger.error('error %s for url %s' % (ex, city_url))
-                missed_urls.append(city_url)
+                except Exception as ex:
+                    logger.error('error %s for url %s' % (ex, city_url))
+                    missed_urls.append(city_url)
+            else:
+                logger.error('error processing record cod=%s, city=%s, province=%s' % (cod, city, province))
+        except Exception as ex:
+            logger.error('error %s processing record cod=%s, city=%s, province=%s' % (ex, cod, city, province))
+            logger.error('finished at line %d' % i)
 
     logger.info("finished extraction for %d urls" % i)
     with open("./data/bilanci/error_url.txt") as o:
@@ -72,5 +78,6 @@ logger = init_logger()
 df_sose = pd.read_csv('./data/opencivitas-spesa-storica+dati-irpef.csv')
 columns = ['COMUNE_CAT_COD', 'Denominazione Comune', 'ANNO', 'Sigla Provincia_y']
 df = df_sose[columns]
+df = df[df['ANNO'] == 2010]
 
-extract_data(df, logger)
+extract_data(df, logger, 0)
