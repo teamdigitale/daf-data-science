@@ -1,3 +1,5 @@
 secretfile filter=git-crypt diff=git-crypt
 *.key filter=git-crypt diff=git-crypt
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+*AiutiTotali.csv filter=lfs diff=lfs merge=lfs -text
+AiutiTotali.csv filter=lfs diff=lfs merge=lfs -text

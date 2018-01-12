@@ -1,0 +1,73 @@
+Elenco Campi Estrazione;definizioni
+CUP;Codice Unico di Progetto (CUP): Codice identificativo di ciascun progetto d’investimento pubblico: è definito, in genere, da uno specifico algoritmo in base al contenuto del corredo informativo inserito nel Sistema. Consiste in una stringa alfanumerica di 15 caratteri associata, in maniera biunivoca, al corredo informativo di ogni progetto. Il CUP è necessario alla realizzazione del Sistema di Monitoraggio Investimenti Pubblici.
+DESCRIZIONE_SINTETICA_CUP;"Campo descrittivo composto, per i progetti/interventi nell'ambito dei lavori pubblici, dai seguenti elementi separati da asterisco (*): Nome infrastrutturainteressata dal progetto*Indirizzo oarea di riferimento*Descrizione intervento"
+ANNO_DECISIONE;Anno in cui è presa la decisione di attuare il progetto d’investimento pubblico.
+STATO_PROGETTO;"Attivo: stato che caratterizza il progetto in essere che il Sistema CUP assegna di default ad ogni progetto d’investimento pubblico. Il codice CUP, in questo caso, deve essere obbligatoriamente utilizzato in tutti i correlati documenti amministrativi e contabili.Chiuso: stato del CUP di un progetto completato in tutte le sue parti (attività concluse e risorse erogate e in assenza di vertenze in corso); il CUP deve essere chiuso direttamente dall’utente.Revocato : stato del CUP quando il progetto non viene più completamente realizzato, per cause esterne o interne all’Amministrazione; il CUP deve essere revocato direttamente dall’utente (solo per file CUP revocati cancellati).Cancellato: stato di un CUP richiesto per errore; il Sistema tiene comunque traccia del codice cancellato (solo per file CUP revocati cancellati)."
+COSTO_PROGETTO;
+FINANZIAMENTO_PROGETTO;
+CODICE_STATO;Codice  numerico dello stato (nazione)  in cui è localizzato il progetto assegnato nel Sistema CUP
+STATO;Denominazione della stato (nazione) in cui è localizzato il progetto
+CODICE_AREA_GEOGRAFICA;Codice dell'area geografica in cui è localizzato il progetto
+AREA_GEOGRAFICA;Denominazione dell'area geografica in cui è localizzato il progetto
+CODICE_REGIONE;Codice  numerico della  regione in cui è localizzato il progetto derivato da fonte Istat.
+REGIONE;Denominazione della  regione in cui è localizzato il progetto derivato da fonte Istat.
+CODICE_PROVINCIA;Codice  numerico della  provincia in cui è localizzato il progetto derivato da fonte Istat.
+SIGLA_PROVINCIA;Sigla della  provincia in cui è localizzato il progetto derivato da fonte Istat.
+PROVINCIA;Denominazione della  provincia in cui è localizzato il progetto derivato da fonte Istat.
+CODICE_COMUNE;Codice  numerico del  comune in cui è localizzato il progetto derivato da fonte Istat.
+COMUNE;Denominazione del comune in cui è localizzato il progetto derivato da fonte Istat.
+PIVA_CODFISCALE_SOG_TITOLARE;Partita IVA o Codice Fiscale del Soggetto titolare
+SOGGETTO_TITOLARE;Denominazione del soggetto titolare/responsabile, ovvero l'Amministrazione o Ente che decide di realizzare un progetto di investimento pubblico e cui spetta l’attuazione dell’intervento: ciò determina la responsabilità della richiesta del CUP. 
+INDIRIZZO_SOG_TITOLARE;Denominazione dell' Indirizzo della sede del Soggetto titolare
+TIPO_INDIRIZZO_SOG_TITOLARE;Tipologia dell'indirizzo della sede del Soggetto titolare: Via, Viale, Piazza, Corso, Altro (utilizzato se localizzazione del Soggetto titolare non è riconducibile ad un indirizzo definito).
+NUM_CIVICO_SOG_TITOLARE;Numero civico dell'indirizzo della sede del Soggetto titolare
+LOCALITA_SOG_TITOLARE;Denominazione della località della sede del Soggetto titolare.
+CAP_SOGGETTO_TITOLARE;CAP: Codice di Avviamento Postale, della sede del Soggetto titolare
+COMUNE_SOGGETTO_TITOLARE;Denominazione del comune,  derivata da fonte Istat, in cui è localizzata la sede del Soggetto titolare.
+CODICE_COMUNE_SOGG_TITOLARE;Codice  numerico del  comune,  derivato da fonte Istat, in cui è localizzata la sede del Soggetto titolare.
+CODICE_SOTTOCATEG_SOGGETTO;Codice numerico assegnato nell'ambito del Sistema CUP, alla sottocategoria del Soggetto titolare.
+SOTTOCATEGORIA_SOGGETTO;Denominazione della sottocategoria del Soggetto titolare, specifica ulteriormente la categoria.
+CODICE_CATEGORIA_SOGGETTO;Codice numerico, assegnato nell'ambito del Sistema CUP, della Categoria del Soggetto titolare.
+CATEGORIA_SOGGETTO;Denominazione della Categoria del Soggetto titolare, con cui è classificato il soggetto nell'ambito del Sistema CUP.
+CODICE_AREA_SOGGETTO;Codice dell'Area in cui è classificato il Soggetto titolare.
+AREA_SOGGETTO;Denominazione dell'Area in cui è classificato il Soggetto titolare nell'ambito di OpenCUP: Altro, Aministrazioni centrali, Amministrazioni locali.
+CODICE_NATURA_INTERVENTO;Codice numerico assegnato dal Sistema CUP alla Natura intervento.
+NATURA_INTERVENTO;Classifica il tipo di progetto e le sue modalità di esecuzione (realizzazione di lavori pubblici, acquisto di beni, realizzazione e acquisto di servizi, concessione di incentivi alle unità produttive, realizzazione di progetti di ricerca, ecc).
+CODICE_TIPO_INTERVENTO;Codice numerico assegnato dal Sistema CUP alla Tipologia di intervento.
+TIPOLOGIA_INTERVENTO;Denominazione della Tipologia di intervento, specifica ulteriormente la natura del progetto (manutenzione straordinaria, ristrutturazione, studi e progettazioni ecc.).
+CODICE_AREA_INTERVENTO;Codice dell'Area intervento.
+AREA_INTERVENTO;Denominazione dell'area intervento, definita nell'ambito di OpenCUP: Ambiente ed energia, Immobili, Ricerca…, Trasporti.
+CODICE_SETTORE_INTERVENTO;Codice numerico assegnato dal Sistema CUP al settore di intervento.
+SETTORE_INTERVENTO;Denominazione del Settore di intervento: individua le categorie omogenee (infrastrutture di trasporto, infrastrutture sociali ecc.) con cui è possibile descrivere la destinazione dell’intervento.
+CODICE_SOTTOSETTORE_INTERVENTO;Codice numerico assegnato dal Sistema CUP al sottosettore di intervento.
+SOTTOSETTORE_INTERVENTO;Denominazione del Sottosettore intervento: specifica ulteriormente il settore.
+CODICE_CATEGORIA_INTERVENTO;Codice numerico assegnato dal Sistema CUP alla categoria di intervento.
+CATEGORIA_INTERVENTO;Denominazione della Categoria intervento: specifica ulteriormente il sottosettore.
+SOGGETTO_RICHIEDENTE;"Denominazione dell'Amministrazione o Ente che richiede il CUP; è immutabile nel tempo e solitamente coincide o con il Soggetto responsabile o con il Soggetto Concentratore (il soggetto concentratore è un Ente pubblico che può richiedere il CUP per conto di un soggetto responsabile di un progetto d’investimento pubblico, in base ad una delega esplicita). "
+TIPOLOGIA_CUP;Tipologia del codice CUP.
+DESCRIZIONE_INTERVENTO;Descrive il tipo di intervento da realizzare.
+STRUTTURA_INFRASTRUTTURA;Descrizione della struttura/infrastruttura interessata dal progetto.
+INDIRIZZO_INTERVENTO                 ;Descrizione dell'indirizzo della struttura/infrastruttura oggetto dell'intervento, oppure specificare comunque l'area di interesse del progetto/intervento.
+NUMERO_DELIBERA_CIPE;Numero  della delibera del CIPE cui fa riferimento il progetto.
+ANNO_DELIBERA;Anno della delibera del CIPE cui fa riferimento il progetto.
+FLAG_LEGGE_OBIETTIVO;Indica se il progetto viene considerato nell'ambito dello strumento legislativo della Legge Obiettivo: Si, No.
+FINANZA_PROGETTO;"Indica se il progetto/intervento è finanziato attraverso la modalità di ""Project Financing""."
+FLAG_TIPO_GENERICO;Indicare se il progetto interessa una o più infrastrutture.
+CUP_IN_RELAZIONE;Elenco di codici in relazione (fusi, scissi, etc.) con il codice CUP in esame.
+RUOLO_IN_RELAZIONE;Indica il ruolo che il codice CUP ha nella realazione tra i codici (Fuso, Scisso, etc.).
+DESC_TIPO_RELAZIONE;Indica se il codice CUP è in relazione (Fusione, Scissione, etc.) con altri cadici CUP.
+DATA_ULTIMA_MODIFICA_SSC;Data in cui la SSC (Struttura di supporto CUP) ha effettuato l'ultima modifica al corredo informativo del progetto/intervento.
+DATA_ULTIMA_MODIFICA_UTENTE;Data in cui l'utente del Sistema CUP, titolare del progetto/intervento ha effettuato l'ultima modifica al corredo informativo.
+DATA_CHIUSURA_REVOCA;Data in cui il progetto/intervento ha assunto lo stato Chiuso o Revocato.
+CODICE_LOCALE_PROGETTO;Codifica del progetto utilizzata internamente dall'Amministrazione responsabile per identificare il progetto/intervento.
+CODICE_STRUMENTO_PROGRAM;Codice dello Strumento di programmazione assegnato nell'ambito del Sistema CUP.
+STRUMENTO_PROGRAMMAZIONE;"Evidenzia l'eventuale riconducibilità del progetto ad uno strumento di programmazione negoziata o ""altro"" strumento programmatico."
+CODICE_COPERTURA_FINANZIARIA;Codice  della copertura finanziaria, assegnato nell'ambito del Sistema CUP.
+COPERTURA_FINANZIARIA;Voce relativa alla/e fonte/i di finanziamento del progetto d’investimento: Altra pubblica, Comunale, Comunitaria, Privata, Provinciale, Regionale, Statale.
+SPONSORIZZAZIONI;Indica se sono presenti contributi provenienti da soggetti privati.
+ALTRE_INFORMAZIONI ;Altre eventuali informazioni ritenute significative per descrivere il progetto.
+DATA_GENERAZIONE_CUP;Data in cui è stato generato il codice CUP.
+ CONTROLLO_QUALITA;Indica se l'informazione è stata visionata dalla Struttura di Supporto CUP.
+CUP_MASTER             ;Codice del progetto d’investimento pubblico a cui sono collegati, in via puramente informatica, tutti i progetti registrati successivamente aventi in comune lo stesso oggetto del primo (la stessa infrastruttura su cui si interviene nel caso di lavori pubblici, lo stesso stabilimento industriale beneficiario nel caso di incentivi ad unità produttive, ecc.).
+RAGIONI_COLLEGAMENTO;" Nell'ambito dei lavori pubblici è la denominazione dell'oggetto progettuale di riferimento, che identifica la caratteristicacomune ai progetti/interventi da collegare. "
+LINK_OPENCOESIONE;link ai dati del progetto/intervento nel portale OpenCoesione.

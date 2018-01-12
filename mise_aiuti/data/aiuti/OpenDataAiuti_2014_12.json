@@ -1,0 +1,2529 @@
+{
+    "LISTA_AIUTI": {
+        "@xmlns": "http://www.rna.it/RNA_aiuto/schema", 
+        "AIUTO": [
+            {
+                "CAR": "789", 
+                "TITOLO_MISURA": "Bando per l\u2019erogazione di contributi a fondo perduto per il sostegno delle produzioni cinematografiche e dell\u2019audiovisivo realizzate in lombardia (convenzione tra regione lombardia e fondazione lombardia film commission)", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DELLA CONVENZIONE TRA REGIONE LOMBARDIA E FONDAZIONE LOMBARDIA FILM COMMISSION FINALIZZATA A SOSTENERE LE PRODUZIONI CINEMATOGRAFICHE E DELL\u2019AUDIOVISIVO REALIZZATE IN LOMBARDIA", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.filmcomlombardia.it/corsi_e_bandi/index.php?idBando=6", 
+                "COD_UFF_GESTORE": "LFC", 
+                "DENOMINAZIONE_UFF_GESTORE": "Fondazione Lombardia Film Commission", 
+                "SOGGETTO_CONCEDENTE": "Fondazione Lombardia Film Commission", 
+                "COR": "31998", 
+                "TITOLO_PROGETTO": "WHY INVEST IN ITALY", 
+                "DESCRIZIONE_PROGETTO": "Documentario", 
+                "DATA_CONCESSIONE": "2014-12-09+01:00", 
+                "CUP": "0000", 
+                "DENOMINAZIONE_BENEFICIARIO": "LITTLESEA SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "07763260960", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "33669", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "154600", 
+                        "DES_OBIETTIVO": "Cultura", 
+                        "SETTORE_ATTIVITA": "J.59.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "32000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35701", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F41B14000730009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "VIARTE S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "05178050968", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "35517", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "N.82.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "120000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35702", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F41B14000740009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MAGUTDESIGN S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "13164480157", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "35518", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "J.62.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "24807.58"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35703", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F46D14012310009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "FONDAZIONE MUSEO NAZIONALE DELLA SCIENZA E DELLA TECNOLOGIA 'L. D A VINCI'", 
+                "CODICE_FISCALE_BENEFICIARIO": "80068370156", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "35519", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.6", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "120000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35704", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E11B14000900009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "I.L.E.M. S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03157930136", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "35520", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "P.85.4", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "43762.20"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35705", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F43D14001410009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "M. SEVENTY S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02579501202", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37401", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "M.73.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "64000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35706", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F43D14001430009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "SERVIZI ASSOCIATIVI CNA MILANO S.R.L. CON UNICO SOCIO", 
+                "CODICE_FISCALE_BENEFICIARIO": "07631410961", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37402", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "J.63.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "11000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35707", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F43D14001410009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "M. SEVENTY S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02579501202", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37403", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "M.73.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "118598.15"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35708", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F41B14000720009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "ALCHEMA S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "07068350961", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37404", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "M.70.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "30000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35709", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F47B14000490009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "SCUOLA POLITECNICA DI DESIGN - CROSSCOM S.R.L. OD IN FORMA ABBREV IATA SCUOLA POLITECNICA DI DESIGN S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "11705380159", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37405", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "M.74.9", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2473.35"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35710", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F41B14000750009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "LAVORO E INTEGRAZIONE ONLUS", 
+                "CODICE_FISCALE_BENEFICIARIO": "94517740158", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37406", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "Q.88.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "25000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35711", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F46G14001020009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "ARSUTORIA SCHOOL S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "07935430962", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37407", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "P.85.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "49000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35712", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E11B14000900009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "I.L.E.M. S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03157930136", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37408", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "P.85.4", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "118575.10"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35713", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E11B14000910009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "BRIC'S INDUSTRIA VALIGERIA FINE - S.P.A. O, IN ABBREVIATO, BRIC'S S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00793550138", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37409", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.15.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35714", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E11B14000920009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "STAMPERIA DI LIPOMO S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00627510134", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37410", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.13.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "700.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35715", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F44B14000510009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MUSE DI FRANCESCA MOLTENI", 
+                "CODICE_FISCALE_BENEFICIARIO": "MLTFNC73H54F205O", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37411", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "J.59.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "43200.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35716", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F46D14012320009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "BOILER CORPORATION - SOCIETA' A RESPONSABILITA' LIMITATA", 
+                "CODICE_FISCALE_BENEFICIARIO": "08265541006", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37412", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "M.70.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2186.53"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35717", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F43J14000350009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MICUE MILANO DESIGN S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "08184140963", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37413", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "N.82.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "49920.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "562", 
+                "TITOLO_MISURA": "BANDO CREATIVIT\u00c0' EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "APPROVAZIONE DEL BANDO CREATIVIT\u00c0': EVENTI E LUOGHI PER L'INNOVAZIONE NELLA MODA E NEL DESIGN IN ATTUAZIONE DELLA D.G.R. 26 SETTEMBRE 2014 N. 2515", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=Imprese%2FWrapperBandiLayout&cid=1213705473669&p=1213705473669&pagename=MPRSWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35718", 
+                "TITOLO_PROGETTO": "Bando creativita,  moda e design", 
+                "DESCRIZIONE_PROGETTO": "Contributi per la creativita, moda e design alle imprese lombarde", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "F27H14002500009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 12377 2014-12-18 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "Associazione culturale teatro in folio", 
+                "CODICE_FISCALE_BENEFICIARIO": "03095670968", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37414", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "J.59.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "4", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "14400.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35761", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46G14001050009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "FASHION JAM SRLS", 
+                "CODICE_FISCALE_BENEFICIARIO": "08317620964", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37395", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6847.50"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35762", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F91H14000100009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "ZOE SNC DI RONCHI E. E CROTTI C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01531440194", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37396", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "5943.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35763", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F41H14000110009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "VELVET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA", 
+                "CODICE_FISCALE_BENEFICIARIO": "08836360969", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37397", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "7500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35764", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F11H14000140009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "TINO DI VANELLI TIZIANA", 
+                "CODICE_FISCALE_BENEFICIARIO": "VNLTZN55H42F205T", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37398", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6600.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35765", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F31H14000170009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "CANTU' LIBRI S.A.S. DI CORRADO ANZANI E C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02905340135", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37399", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.6", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9375.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35766", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F71H14000260009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "TELERIE BALGERA S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00042970145", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37400", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35767", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46D14012300009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "BABYLAND S.N.C. DI DELL'ERA ANNA E MUCEDOLA FRANCESCA", 
+                "CODICE_FISCALE_BENEFICIARIO": "05799060966", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37461", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35768", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F76G14001420009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "LIMITED EDITION DI LONATI DARIO", 
+                "CODICE_FISCALE_BENEFICIARIO": "LNTDRA86E14L400D", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37462", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "3140.25"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35769", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F96D14004220009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "LA PIALLA DI SPINELLI LUCA", 
+                "CODICE_FISCALE_BENEFICIARIO": "SPNLCU80T20F704U", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37463", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35770", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F36D14003710009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "GARDEN BEDETTI S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "01927620136", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37464", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35771", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F86D14029540009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "BETTY 2009 S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03112110980", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37465", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6486.75"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35772", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F61B14000320009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "BP FACTORY S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02386260208", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37466", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35773", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F16D14015330009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "DEDALO S.N.C. DI CIPOLLA PIETRO FLAVIO E C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "12713540156", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37467", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6650.10"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35774", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F49J14002240009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MARI DI MARIA SILVIA MARI", 
+                "CODICE_FISCALE_BENEFICIARIO": "MRAMSL67R47Z133B", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37468", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.21.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35775", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F91H14000110009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MANTOVA S.N.C. DI FARDIN MARINO E LANZA NICOLETTA E C. S.N.C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02413010204", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37469", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6492.42"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35776", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46G14006810009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "RA.DA S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02993160122", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37470", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6570.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35777", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46D14009780009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "RISTORANTE PIZZERIA VISCONTI SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "11894890158", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37471", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35778", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F44E14002260009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "PRELOVED GRIFFE DI MONICA AVENIA E CARLA MIGLIORE S.N.C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "08228650969", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37472", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9849.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35779", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46G14000990009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "SHERBET S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "06979080964", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37473", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "7315.34"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35780", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F76D14005030009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MCP S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00803910140", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37474", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35781", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46D14006680009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "MERRY GO ROUND DI DONEDDU CRISTINA", 
+                "CODICE_FISCALE_BENEFICIARIO": "DNDCST84L63G203O", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37475", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6474.75"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35782", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F11H14000150009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "OLIVER CENTRO MODA SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "00894290196", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37476", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "3712.50"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35783", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F96D14004230009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "OTTICA CAPITANO DI RAZZINI FILIPPO", 
+                "CODICE_FISCALE_BENEFICIARIO": "RZZFPP72A20C153M", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37477", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "2887.50"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35784", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F16D14007860009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "OSTERIA RUSTICANA DI LAGO ORNELLA", 
+                "CODICE_FISCALE_BENEFICIARIO": "LGARLL60A42L750Y", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37478", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "I.56.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9712.50"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35785", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F61H14000150009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "'OTTICA FOTO BAZZOCCHI DI ANNA ALTIMANI'", 
+                "CODICE_FISCALE_BENEFICIARIO": "LTMNLC67T60D969Y", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37479", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35786", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F11H14000160009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "PETER CI - S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00713190130", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37480", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35787", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F21H14000170009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "ARCHILOGO  S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03439130968", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37481", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "8454.03"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35788", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F66G14004490009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "LA RONDINE DI MANUELA CAVALMORETTI", 
+                "CODICE_FISCALE_BENEFICIARIO": "CVLMNL57P63E897C", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37482", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "6472.27"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35789", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46G14001000009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "F.B.L. S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "05690510960", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37483", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.31.0", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "8417.25"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35790", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F46G14001010009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "COLOMBO S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "11015540153", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37484", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "15000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35791", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F16D14007870009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "SIGMA2 S.A.S. DI SILVA VALENTINA & CO.", 
+                "CODICE_FISCALE_BENEFICIARIO": "03344940139", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37485", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35792", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F39J14001170009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "'TESSIL PERONI DI GIORGIO PERONI & C. S.A.S.'", 
+                "CODICE_FISCALE_BENEFICIARIO": "01335840128", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37486", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.5", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9900.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35793", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F31H14000160009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "ZANFRINI GIOVANNI E C. S.N.C.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02022540138", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37487", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "13227.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "565", 
+                "TITOLO_MISURA": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "CREATIVITA\u2019 E COMMERCIO: SPAZI ESPOSITIVI PER L'ATTRATTIVITA' TERRITORIALE. ATTUAZIONE DEL PIANO D'AZIONE PER LA MODA E IL DESIGN 2014-2015", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it//cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213706972640&p=1213706972640&pagename=DG_COMMWrapper", 
+                "COD_UFF_GESTORE": "UF8T3Q", 
+                "DENOMINAZIONE_UFF_GESTORE": "UFFICIO BANDI", 
+                "SOGGETTO_CONCEDENTE": "UNIONCAMERE LOMBARDIA", 
+                "COR": "35794", 
+                "TITOLO_PROGETTO": "Bando Creativita e Commercio: spazi espositivi per l'attrattivita", 
+                "DESCRIZIONE_PROGETTO": "Bando finalizzato a promuovere l?attrattivita e la competitivita del comparto degli esercizi pubblici e commerciali attraverso una misura di intervento volta alla realizzazione di vetrine e spazi espositivi creativi.", 
+                "DATA_CONCESSIONE": "2014-12-04+01:00", 
+                "CUP": "F71H14000250009", 
+                "ATTO_CONCESSIONE": "Decreto Regionale 11663 2014-12-04 00:00:00.0", 
+                "DENOMINAZIONE_BENEFICIARIO": "CENTRO OTTICO PEGASO S.A.S. DI DONATI MARIA PIA", 
+                "CODICE_FISCALE_BENEFICIARIO": "03739720963", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "37488", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1407/13", 
+                        "DES_REGOLAMENTO": "Reg. UE 1407/2013  de minimis generale", 
+                        "COD_OBIETTIVO": "100800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "G.47.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9600.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45174", 
+                "TITOLO_PROGETTO": "ELETTROQUADRI - RUSSIA", 
+                "DESCRIZIONE_PROGETTO": "ELETTROQUADRI - RUSSIA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E27H14002920009", 
+                "DENOMINAZIONE_BENEFICIARIO": "\"ELETTROQUADRI - S.R.L.\"", 
+                "CODICE_FISCALE_BENEFICIARIO": "01414520120", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51094", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.27.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45177", 
+                "TITOLO_PROGETTO": "SPM RUSSIA", 
+                "DESCRIZIONE_PROGETTO": "SPM RUSSIA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E97H14002440009", 
+                "DENOMINAZIONE_BENEFICIARIO": "\"SPM  - S.P.A.\"", 
+                "CODICE_FISCALE_BENEFICIARIO": "00201320124", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51097", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.29.3", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45178", 
+                "TITOLO_PROGETTO": "IMPIANTI SISTEMA GEL SPA - PROGETTO RUSSIA", 
+                "DESCRIZIONE_PROGETTO": "IMPIANTI SISTEMA GEL SPA - PROGETTO RUSSIA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E27H14002860009", 
+                "DENOMINAZIONE_BENEFICIARIO": "IMPIANTI SISTEMA GEL S.P.A. IN SIGLA I.S.G. S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00844990150", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51098", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.9", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45179", 
+                "TITOLO_PROGETTO": "ASSISTENZA NELL-INDIVIDUAZIONE DI POTENZIALI PARTNER INDUSTRIALI", 
+                "DESCRIZIONE_PROGETTO": "ASSISTENZA NELL-INDIVIDUAZIONE DI POTENZIALI PARTNER INDUSTRIALI", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E67H14003140009", 
+                "DENOMINAZIONE_BENEFICIARIO": "MOBIL PLASTIC S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "00186030185", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51099", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.22.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "10500.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45180", 
+                "TITOLO_PROGETTO": "Analisi di mercato per la valutazione di un insediamento produttivo in Giappone", 
+                "DESCRIZIONE_PROGETTO": "Analisi di mercato per la valutazione di un insediamento produttivo in Giappone", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E57H14002350009", 
+                "DENOMINAZIONE_BENEFICIARIO": "A. BRIVIO COMPENSATI S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02109430153", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51100", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.16.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "691", 
+                "TITOLO_MISURA": "FONDO DI ROTAZIONE PER L'INTERNAZIONALIZZAZIONE DELLE IMPRESE - FRI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "ACCORDO DI PROGRAMMA PER LO SVILUPPO ECONOMICO E LA COMPETITIVIT\u00c0 DEL SISTEMA LOMBARDO 2010-2015. RELAZIONE ATTIVIT\u00c0 2012 E PROGRAMMA DI AZIONE 2013", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.sviluppoeconomico.regione.lombardia.it/cs/Satellite?c=Attivita&childpagename=DG_Commercio%2FWrapperBandiLayout&cid=1213486913499&p=1213486913499&packedargs=locale%3D1194453881584%26menu-to-render%3D1213301212376&pagename=DG_COMMWrapper&tipologi", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45545", 
+                "TITOLO_PROGETTO": "BROFIND BEIJING", 
+                "DESCRIZIONE_PROGETTO": "BROFIND BEIJING", 
+                "DATA_CONCESSIONE": "2014-12-12+01:00", 
+                "CUP": "E44E14004760009", 
+                "DENOMINAZIONE_BENEFICIARIO": "BROFIND - S.P.A.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02220340166", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "97386", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "M.71.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9387.15"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45645", 
+                "TITOLO_PROGETTO": "CDC ELETTRO TURCHIA", 
+                "DESCRIZIONE_PROGETTO": "CDC ELETTRO TURCHIA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E87H14003440009", 
+                "DENOMINAZIONE_BENEFICIARIO": "ELETTROMECCANICA C.D.C. SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "00215680166", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51550", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.9", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45651", 
+                "TITOLO_PROGETTO": "Analisi e ricerca di mercato PROTECNIC SRL", 
+                "DESCRIZIONE_PROGETTO": "Analisi e ricerca di mercato PROTECNIC SRL", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E27H14002850009", 
+                "DENOMINAZIONE_BENEFICIARIO": "PROTECNIC S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "02029700164", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51556", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.22.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "9000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45652", 
+                "TITOLO_PROGETTO": "PROGETTO PLANIUM RUSSIA", 
+                "DESCRIZIONE_PROGETTO": "PROGETTO PLANIUM RUSSIA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E87H14003450009", 
+                "DENOMINAZIONE_BENEFICIARIO": "PLANIUM S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "05488690966", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51557", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.25.1", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45653", 
+                "TITOLO_PROGETTO": "RICHIESTA VOUCHER ACCOMPAGNAMENTO IMPRESA", 
+                "DESCRIZIONE_PROGETTO": "RICHIESTA VOUCHER ACCOMPAGNAMENTO IMPRESA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E67H14003070009", 
+                "DENOMINAZIONE_BENEFICIARIO": "CUGHER GLASS S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "12494840155", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51558", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.9", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45656", 
+                "TITOLO_PROGETTO": "AIR CLEAN - CINA", 
+                "DESCRIZIONE_PROGETTO": "AIR CLEAN - CINA", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E47H14002960009", 
+                "DENOMINAZIONE_BENEFICIARIO": "AIR CLEAN SRL", 
+                "CODICE_FISCALE_BENEFICIARIO": "10604210152", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51561", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.28.2", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }, 
+            {
+                "CAR": "682", 
+                "TITOLO_MISURA": "FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI", 
+                "DES_TIPO_MISURA": "Regime di aiuti", 
+                "BASE_GIURIDICA_NAZIONALE": "REVISIONE DEI CRITERI DI ATTUAZIONE DEL FONDO VOUCHER PER L'ACCOMPAGNAMENTO DELLE PMI LOMBARDE NEI PAESI ESTERI (APPARTENENTI ALL'AREA EXTRA UNIONE EUROPEA) IN ATTUAZIONE DELLA DGR N. IX/4201 DEL 25/10/12", 
+                "LINK_TESTO_INTEGRALE_MISURA": "http://www.regione.lombardia.it/cs/Satellite?childpagename=HomeSPRL%2FWrapperBandiLayout&c=Attivita&p=1213295551434&pagename=HMSPRLWrapper&packedargs=menu-to-render%3D1213301212544&cid=1213295551434&tipologia=Agevolazioni", 
+                "COD_UFF_GESTORE": "RLO13303", 
+                "DENOMINAZIONE_UFF_GESTORE": "STR SOSTEGNO ALL'EXPORT E ATTRAZIONE DEGLI INVESTIMENTI", 
+                "SOGGETTO_CONCEDENTE": "Regione Lombardia - DG Sviluppo economico", 
+                "COR": "45661", 
+                "TITOLO_PROGETTO": "RICHIESTA VOUCHER ACCOMPAGNAMENTO LASER POINT SRL", 
+                "DESCRIZIONE_PROGETTO": "RICHIESTA VOUCHER ACCOMPAGNAMENTO LASER POINT SRL", 
+                "DATA_CONCESSIONE": "2014-12-18+01:00", 
+                "CUP": "E17H14002610009", 
+                "DENOMINAZIONE_BENEFICIARIO": "LASER POINT S.R.L.", 
+                "CODICE_FISCALE_BENEFICIARIO": "07701630159", 
+                "DES_TIPO_BENEFICIARIO": "PMI", 
+                "REGIONE_BENEFICIARIO": "Lombardia", 
+                "COMPONENTI_AIUTO": {
+                    "COMPONENTE_AIUTO": {
+                        "ID_COMPONENTE_AIUTO": "51566", 
+                        "COD_PROCEDIMENTO": "1", 
+                        "DES_PROCEDIMENTO": "De Minimis", 
+                        "COD_REGOLAMENTO": "CE1998/2006", 
+                        "DES_REGOLAMENTO": "Reg. CE 1998/2006 de minimis  generale", 
+                        "COD_OBIETTIVO": "150800", 
+                        "DES_OBIETTIVO": "PMI", 
+                        "SETTORE_ATTIVITA": "C.26.7", 
+                        "STRUMENTO_AIUTO": {
+                            "STRUMENTO_AIUTO": {
+                                "COD_STRUMENTO": "2", 
+                                "DES_STRUMENTO": "Sovvenzione/Contributo in conto interessi", 
+                                "ELEMENTO_DI_AIUTO": "18000.00"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
