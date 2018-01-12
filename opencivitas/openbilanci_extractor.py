@@ -75,9 +75,9 @@ def extract_data(df, logger, start_point=0):
 
 logger = init_logger()
 
-df_sose = pd.read_csv('./data/opencivitas-spesa-storica+dati-irpef.csv')
+df_sose = pd.read_csv('./data/opencivitas_spesa_storica_dati_irpef.csv')
 columns = ['COMUNE_CAT_COD', 'Denominazione Comune', 'ANNO', 'Sigla Provincia_y']
 df = df_sose[columns]
 df = df[df['ANNO'] == 2010]
 
-extract_data(df, logger, 0)
+extract_data(df, logger, 720)
