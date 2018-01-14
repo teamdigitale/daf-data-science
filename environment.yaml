@@ -2,9 +2,13 @@ name: daf
 channels:
   - defaults
 dependencies:
+  - asn1crypto=0.24.0=py36_0
   - bleach=2.1.1=py36hd521086_0
   - ca-certificates=2017.08.26=h1d4fec5_0
   - certifi=2017.11.5=py36hf29ccca_0
+  - cffi=1.11.2=py36h2825082_0
+  - chardet=3.0.4=py36h0f667ec_1
+  - cryptography=2.1.4=py36hd09be54_0
   - cycler=0.10.0=py36h93f1223_0
   - dbus=1.10.22=h3b5a359_0
   - decorator=4.1.2=py36hd076ac8_0
@@ -18,6 +22,7 @@ dependencies:
   - gstreamer=1.12.2=h4f93127_0
   - html5lib=1.0.1=py36h2f9c1c0_0
   - icu=58.2=h9c2bf20_1
+  - idna=2.6=py36h82fb2a8_1
   - intel-openmp=2018.0.0=hc7b2577_8
   - ipykernel=4.7.0=py36h2f9c1c0_0
   - ipython=6.2.1=py36h88c514a_1
@@ -59,11 +64,15 @@ dependencies:
   - pexpect=4.3.0=py36h673ed17_0
   - pickleshare=0.7.4=py36h63277f8_0
   - pip=9.0.1=py36h6c6f9ce_4
+  - plotly=2.2.2=py36hd7be514_0
   - prompt_toolkit=1.0.15=py36h17d85b1_0
   - ptyprocess=0.5.2=py36h69acd42_0
+  - pycparser=2.18=py36hf9f622e_1
   - pygments=2.2.0=py36h0d3125c_0
+  - pyopenssl=17.5.0=py36h20ba746_0
   - pyparsing=2.2.0=py36hee85983_1
   - pyqt=5.6.0=py36h0386399_5
+  - pysocks=1.6.7=py36hd97a5b1_1
   - python=3.6.4=hc3d631a_0
   - python-dateutil=2.6.1=py36h88d3b88_1
   - pytz=2017.3=py36h63b9c63_0
@@ -71,6 +80,7 @@ dependencies:
   - qt=5.6.2=h974d657_12
   - qtconsole=4.3.1=py36h8f73b5b_0
   - readline=7.0=ha6073c6_4
+  - requests=2.18.4=py36he2e5f8d_1
   - scikit-learn=0.19.1=py36h7aa7ec6_0
   - scipy=1.0.0=py36hbf646e7_0
   - seaborn=0.8.1=py36hfad7ec4_0
@@ -85,6 +95,7 @@ dependencies:
   - tk=8.6.7=hc745277_3
   - tornado=4.5.2=py36h1283b2a_0
   - traitlets=4.3.2=py36h674d592_0
+  - urllib3=1.22=py36hbe7ace6_0
   - wcwidth=0.1.7=py36hdf4376a_0
   - webencodings=0.5.1=py36h800622e_1
   - wheel=0.30.0=py36hfd4bba0_1
@@ -92,4 +103,16 @@ dependencies:
   - xz=5.2.3=h55aa19d_2
   - zeromq=4.2.2=hbedb6e5_2
   - zlib=1.2.11=ha838bed_2
-#prefix: /home/fabio/anaconda3/envs/daf
+  - pip:
+    - configparser==3.5.0
+    - future==0.16.0
+    - json-rpc==1.10.8
+    - mccabe==0.6.1
+    - pluggy==0.6.0
+    - pycodestyle==2.3.1
+    - pydocstyle==2.1.1
+    - pyflakes==1.6.0
+    - python-language-server==0.12.2
+    - rope==0.10.7
+    - snowballstemmer==1.2.1
+    - yapf==0.20.0
