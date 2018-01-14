@@ -116,3 +116,5 @@ dependencies:
     - rope==0.10.7
     - snowballstemmer==1.2.1
     - yapf==0.20.0
+prefix: /home/fabio/anaconda3/envs/daf
+
