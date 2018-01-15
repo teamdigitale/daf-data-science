@@ -1,0 +1,90 @@
+SettoreAttivitaEconomica;DescrAteco;CodiceAtecoLiv1;DescrAtecoLiv1
+N 80;Servizi di vigilanza e investigazione;N;Noleggio, agenzie di viaggio, servizi di supporto alle imprese
+N 81;Attivita' di servizi per edifici e paesaggio;N;Noleggio, agenzie di viaggio, servizi di supporto alle imprese
+N 82;Attivita' di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese;N;Noleggio, agenzie di viaggio, servizi di supporto alle imprese
+ND;Non determinato;ND;Non determinato
+O 84;Amministrazione pubblica e difesa, assicurazione sociale obbligatoria;O;Amministrazione pubblica e difesa, assicurazione sociale obbligatoria
+P 85;Istruzione;P;Istruzione
+Q 86;Assistenza sanitaria;Q;Sanita' e assistenza sociale
+Q 87;Servizi di assistenza sociale residenziale;Q;Sanita' e assistenza sociale
+Q 88;Assistenza sociale non residenziale;Q;Sanita' e assistenza sociale
+R 90;Attivita' creative, artistiche e di intrattenimento;R;Attivita' artistiche, sportive, di intrattenimento e divertimento
+R 91;Attivita' di biblioteche, archivi, musei ed altre attivita' culturali;R;Attivita' artistiche, sportive, di intrattenimento e divertimento
+R 92;Attivita' riguardanti le lotterie, le scommesse, le case da gioco;R;Attivita' artistiche, sportive, di intrattenimento e divertimento
+R 93;Attivita' sportive, di intrattenimento e di divertimento;R;Attivita' artistiche, sportive, di intrattenimento e divertimento
+S 94;Attivita' di organizzazioni associative;S;Altre attivita' di servizi
+S 95;Riparazione di computer e di beni per uso personale e per la casa;S;Altre attivita' di servizi
+S 96;Altre attivita' di servizi per la persona;S;Altre attivita' di servizi
+T 97;Attivita' di famiglie e convivenze come datori di lavoro per personale domestico;T;Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze
+T 98;Produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze;T;Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze
+U 99;Organizzazioni ed organismi extraterritoriali;U;Organizzazioni ed organismi extraterritoriali
+A 01;Coltivazioni agricole e produzione di prodotti animali, caccia e servizi connessi;A;Agricoltura, silvicoltura e pesca
+A 02;Silvicoltura ed utilizzo di aree forestali;A;Agricoltura, silvicoltura e pesca
+A 03;Pesca e acquacoltura;A;Agricoltura, silvicoltura e pesca
+B 05;Estrazione di carbone (esclusa torba);B;Estrazione di minerali da cave e miniere
+B 06;Estrazione di petrolio greggio e di gas naturale;B;Estrazione di minerali da cave e miniere
+B 07;Estrazione di minerali metalliferi;B;Estrazione di minerali da cave e miniere
+B 08;Altre attivita' di estrazione di minerali da cave e miniere;B;Estrazione di minerali da cave e miniere
+B 09;Attivita' dei servizi di supporto all'estrazione;B;Estrazione di minerali da cave e miniere
+C 10;Industrie alimentari;C;Attivita' manifatturiere
+C 11;Industria delle bevande;C;Attivita' manifatturiere
+C 12;Industria del tabacco;C;Attivita' manifatturiere
+C 13;Industrie tessili;C;Attivita' manifatturiere
+C 14;Confezione di articoli di abbigliamento, confezione di articoli in pelle e pelliccia;C;Attivita' manifatturiere
+C 15;Fabbricazione di articoli in pelle e simili;C;Attivita' manifatturiere
+C 16;Industria del legno e dei prodotti in legno e sughero (esclusi i mobili), fabbricazione di articoli in paglia e materiali da intreccio;C;Attivita' manifatturiere
+C 17;Fabbricazione di carta e di prodotti di carta;C;Attivita' manifatturiere
+C 18;Stampa e riproduzione di supporti registrati;C;Attivita' manifatturiere
+C 19;Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio;C;Attivita' manifatturiere
+C 20;Fabbricazione di prodotti chimici;C;Attivita' manifatturiere
+C 21;Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici;C;Attivita' manifatturiere
+C 22;Fabbricazione di articoli in gomma e materie plastiche;C;Attivita' manifatturiere
+C 23;Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi;C;Attivita' manifatturiere
+C 24;Metallurgia;C;Attivita' manifatturiere
+C 25;Fabbricazione di prodotti in metallo (esclusi macchinari e attrezzature);C;Attivita' manifatturiere
+C 26;Fabbricazione di computer e prodotti di elettronica e ottica, apparecchi elettromedicali, apparecchi di misurazione e di orologi;C;Attivita' manifatturiere
+C 27;Fabbricazione di apparecchiature elettriche ed apparecchiature per uso domestico non elettriche;C;Attivita' manifatturiere
+C 28;Fabbricazione di macchinari ed apparecchiature nca;C;Attivita' manifatturiere
+C 29;Fabbricazione di autoveicoli, rimorchi e semirimorchi;C;Attivita' manifatturiere
+C 30;Fabbricazione di altri mezzi di trasporto;C;Attivita' manifatturiere
+C 31;Fabbricazione di mobili;C;Attivita' manifatturiere
+C 32;Altre industrie manifatturiere;C;Attivita' manifatturiere
+C 33;Riparazione, manutenzione ed installazione di macchine ed apparecchiature;C;Attivita' manifatturiere
+D 35;Fornitura di energia elettrica, gas, vapore e aria condizionata;D;Fornitura di energia elettrica, gas, vapore e aria condizionata
+E 36;Raccolta, trattamento e fornitura di acqua;E;Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento
+E 37;Gestione delle reti fognarie;E;Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento
+E 38;Attivita' di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali;E;Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento
+E 39;Attivita' di risanamento e altri servizi di gestione dei rifiuti;E;Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento
+F 41;Costruzione di edifici;F;Costruzioni
+F 42;Ingegneria civile;F;Costruzioni
+F 43;Lavori di costruzione specializzati;F;Costruzioni
+G 45;Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli;G;Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli
+G 46;Commercio all'ingrosso (escluso quello di autoveicoli e di motocicli);G;Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli
+G 47;Commercio al dettaglio (escluso quello di autoveicoli e di motocicli);G;Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli
+H 49;Trasporto terrestre e trasporto mediante condotte;H;Trasporto e magazzinaggio
+H 50;Trasporto marittimo e per vie d'acqua;H;Trasporto e magazzinaggio
+H 51;Trasporto aereo;H;Trasporto e magazzinaggio
+H 52;Magazzinaggio e attivita' di supporto ai trasporti;H;Trasporto e magazzinaggio
+H 53;Servizi postali e attivita' di corriere;H;Trasporto e magazzinaggio
+I 55;Alloggio;I;Attivita' dei servizi di alloggio e di ristorazione
+I 56;Attivita' dei servizi di ristorazione;I;Attivita' dei servizi di alloggio e di ristorazione
+J 58;Attivita' editoriali;J;Servizi di informazione e comunicazione
+J 59;Attivita' di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore;J;Servizi di informazione e comunicazione
+J 60;Attivita' di programmazione e trasmissione;J;Servizi di informazione e comunicazione
+J 61;Telecomunicazioni;J;Servizi di informazione e comunicazione
+J 62;Produzione di software, consulenza informatica e attivita' connesse;J;Servizi di informazione e comunicazione
+J 63;Attivita' dei servizi d'informazione e altri servizi informatici;J;Servizi di informazione e comunicazione
+K 64;Attivita' di servizi finanziari (escluse le assicurazioni e i fondi pensione);K;Attivita' finanziarie e assicurative
+K 65;Assicurazioni, riassicurazioni e fondi pensione (escluse le assicurazioni sociali obbligatorie);K;Attivita' finanziarie e assicurative
+K 66;Attivita' ausiliarie dei servizi finanziari e delle attivita' assicurative;K;Attivita' finanziarie e assicurative
+L 68;Attivita' immobiliari;L;Attivita' immobiliari
+M 69;Attivita' legali e contabilita';M;Attivita' professionali, scientifiche e tecniche
+M 70;Attivita' di direzione aziendale e di consulenza gestionale;M;Attivita' professionali, scientifiche e tecniche
+M 71;Attivita' degli studi di architettura e d'ingegneria, collaudi ed analisi tecniche;M;Attivita' professionali, scientifiche e tecniche
+M 72;Ricerca scientifica e sviluppo;M;Attivita' professionali, scientifiche e tecniche
+M 73;Pubblicita' e ricerche di mercato;M;Attivita' professionali, scientifiche e tecniche
+M 74;Altre attivita' professionali, scientifiche e tecniche;M;Attivita' professionali, scientifiche e tecniche
+M 75;Servizi veterinari;M;Attivita' professionali, scientifiche e tecniche
+N 77;Attivita' di noleggio e leasing operativo;N;Noleggio, agenzie di viaggio, servizi di supporto alle imprese
+N 78;Attivita' di ricerca, selezione, fornitura di personale;N;Noleggio, agenzie di viaggio, servizi di supporto alle imprese
+N 79;Attivita' dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attivita' connesse;N;Noleggio, agenzie di viaggio, servizi di supporto alle imprese
